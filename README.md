@@ -1,90 +1,77 @@
-# Welcome to GitHub
+Frontend Mentor - Stats preview card component
+Design preview for the Stats preview card component coding challenge
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+Welcome! 👋
+Thanks for checking out this front-end coding challenge.
 
-## Repositories
+Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
+To do this challenge, you need a basic understanding of HTML and CSS.
 
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
+The challenge
+Your challenge is to build out this card component and get it looking as close to the design as possible.
 
-## Describe your project
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
+Your users should be able to:
 
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
+View the optimal layout depending on their device's screen size
+Want some support on the challenge? Join our Slack community and ask questions in the #help channel.
 
-## Your first website
+Where to find everything
+Your task is to build out the project to the designs inside the /design folder. You will find both a mobile and a desktop version of the design.
 
-**GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
+The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as font-size, padding and margin.
 
-[Learn more about GitHub Pages](https://pages.github.com/)
+If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can subscribe as a PRO member.
 
-## Rename this repository to publish your site
+You will find all the required assets in the /images folder. The assets are already optimized.
 
-We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
+There is also a style-guide.md file containing the information you'll need, such as color palette and fonts.
 
-Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
+Building your project
+Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
 
-![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
+Initialize your project as a public repository on GitHub. Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, have a read-through of this Try Git resource.
+Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
+Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
+Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
+Write out the base styles for your project, including general content styles, such as font-family and font-size.
+Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+Deploying your project
+As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
 
-Under the **Repository Name** heading, type: `username.github.io`, where username is your username on GitHub. Then click **Rename**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
+GitHub Pages
+Vercel
+Netlify
+You can host your site using one of these solutions or any of our other trusted providers. Read more about our recommended and trusted hosts.
 
-<img width="1039" alt="rename_screenshot" src="https://user-images.githubusercontent.com/18093541/63129466-956cc580-bf85-11e9-92d8-b028dd483fa5.png">
+Create a custom README.md
+We strongly recommend overwriting this README.md with a custom one. We've provided a template inside the README-template.md file in this starter code.
 
-Once you click **Rename**, your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
+The template provides a guide for what to add. A custom README will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
 
-Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
+Once you've added your information to the template, delete this file and rename the README-template.md file to README.md. That will make it show up as your repository's README file.
 
-## Making your first edit
+Submitting your solution
+Submit your solution on the platform for the rest of the community to see. Follow our "Complete guide to submitting solutions" for tips on how to do this.
 
-When you make any change to any file in your project, you’re making a **commit**. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
+Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
 
-With each commit, you have the opportunity to write a **commit message**, a short, meaningful comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
+Sharing your solution
+There are multiple places you can share your solution:
 
-## Practice: Customize your first GitHub website by writing HTML code
+Share your solution page in the #finished-projects channel of the Slack community.
+Tweet @frontendmentor and mention @frontendmentor, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
+Share your solution on other social channels like LinkedIn.
+Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are dev.to, Hashnode, and CodeNewbie.
+We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback.
 
-Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
+The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
 
-Let’s start with this template:
+Got feedback for us?
+We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
 
-```
-<p>Hello World! I’m [username]. This is my website!</p>
-```
+This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
-To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
-
-<img width="997" alt="edit-this-file" src="https://user-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
-
-
-Delete this placeholder line:
-
-```
-<p>Welcome to your first GitHub Pages website!</p>
-```
-
-Then, paste the template to line 15 and fill in the blanks.
-
-<img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
-
-
-When you’re done, scroll down to the `Commit changes` section near the bottom of the edit page. Add a short message explaining your change, like "Add my introduction", then click `Commit changes`.
-
-
-<img width="1030" alt="add-my-username" src="https://user-images.githubusercontent.com/18093541/63131801-efbd5480-bf8c-11e9-9806-89273f027d16.png">
-
-Once you click `Commit changes`, your changes will automatically be published on your GitHub Pages website. Refresh the page to see your new changes live in action.
-
-:tada: You just made your first commit! :tada:
-
-## Extra Credit: Keep on building!
-
-Change the placeholder Octocat gif on your GitHub Pages website by [creating your own personal Octocat emoji](https://myoctocat.com/build-your-octocat/) or [choose a different Octocat gif from our logo library here](https://octodex.github.com/). Add that image to line 12 of your `index.html` file, in place of the `<img src=` link.
-
-Want to add even more code and fun styles to your GitHub Pages website? [Follow these instructions](https://github.com/github/personal-website) to build a fully-fledged static website.
-
-![octocat](./images/create-octocat.png)
-
-## Everything you need to know about GitHub
-
-Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
+Have fun building! 🚀
